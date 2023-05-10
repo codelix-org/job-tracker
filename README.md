@@ -7,7 +7,7 @@ project with the product and steps already defined.
 
 I've designed the application using [wireframe](https://balsamiq.com/learn/articles/what-are-wireframes/)
 (built with [excalidraw](https://excalidraw.com/)) that shows the [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) and tickets
-that we'll be using to build it. You can access a read-only version via excalidraw [here](https://excalidraw.com/#json=GagiUh2c-K76wbxHYcIcG,2jGQGZpYCUptSxT9cvJsPQ)
+that we'll be using to build it. You can access a read-only version via excalidraw [here](https://excalidraw.com/#json=jH5IVVlJnC-53tNN1rbOo,dgm7hVfA4ShN7X866Gz07g)
 or if you want to edit it you can upload the `mvp-and-tickets.excalidraw` file to https://excalidraw.com/.
 
 ## The application you're building
